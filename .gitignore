@@ -1,0 +1,33 @@
+# Bytecode e cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.swp
+
+# Arquivos de IDEs e editores comuns
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dados de execução
+.DS_Store
+*.sqlite3
+
+# Arquivos do Jupyter (se você usar)
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/config.toml
+
+.csv
